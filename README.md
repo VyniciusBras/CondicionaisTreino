@@ -1,6 +1,6 @@
-# ArraysTreino
+# CondiçõesTreino
 
-Uso obrigatório de Arrays: Todos os exercícios desta lista devem obrigatoriamente utilizar arrays para manipulação de dados. Evite ao máximo o uso de métodos prontos do JavaScript, como .map(), .filter(), .reduce(), .reverse(), entre outros. O objetivo é que você implemente a lógica de manipulação de arrays manualmente.
+Uso obrigatório de laços de condicionais: Todos os exercícios desta lista devem obrigatoriamente utilizar condicionais (if, if-else, else-if etc).​Atenção: Não utilize bibliotecas ou métodos prontos. Construa a lógica usando apenas estruturas básicas da linguagem.​​
 
 Tipagem: Lembre-se de sempre tipar corretamente todas as variáveis, parâmetros e retornos das funções.
 
@@ -9,11 +9,11 @@ Funções para cada exercício: Cada exercício deve ser implementado dentro de 
 Respeito às boas práticas de código: Procure manter o código limpo e organizado, utilizando nomes de variáveis e funções claros e expressivos. Evite duplicação de código e siga uma lógica clara em suas implementações.
 
 Instalação
-Acesse o repositório: Exercícios de Arrays
-Em seguida, faça um fork dele.
-Clone na sua máquina.
-Instale as dependências usando o comando npm install.
+Acesse o repositório: Condicionais-IF-ELSE
+Em seguida faça um fork dele
+Clone na sua máquina
+Instale as dependências usando o comando npm install
 Como usar
-Leia com atenção os exercícios dentro da pasta enunciados.
-Crie a lógica de cada exercício dentro da pasta implementacao.
-Para rodar um exercício específico dentro da pasta implementacao, é necessário usar o comando npm run start -- nome-do-arquivo.ts.
+Leia com atenção os exercícios dentro da pasta enunciados
+Crie a lógica de cada exercício dentro da pasta implementação
+Para rodar um exercício especifico dentro da pasta implementação é necessário usar o comando npm run start -- nome-do-arquivo.ts
